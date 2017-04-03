@@ -1,8 +1,8 @@
 {
     "version": "0.1.0",
-    "command": "explorer",    
+    "command": "explorer",
     "windows": {
         "command": "explorer.exe"
     },
-    "args": ["Index.1.html"]
+    "args": ["products.html"]
 }
