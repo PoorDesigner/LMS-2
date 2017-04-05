@@ -1,0 +1,33 @@
+/*.job-listing:hover {
+    background: #fafafa;
+}
+
+.job-listing.job-listing--featured {
+    border-left: solid 5px #ff7473;
+    padding-left: 15px;
+}
+
+.job-listing {
+    border: solid 1px #eee;
+    border-bottom: none;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 15px;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+
+.book_title {
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}*/
+
+.lms-book {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
