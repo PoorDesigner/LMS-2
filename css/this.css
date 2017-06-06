@@ -1,0 +1,61 @@
+.btn-custom-lms {
+    background-color: #65B8D9;
+    border-color: #65B8D9;
+    color: #ffffff !important;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open>.dropdown-toggle.btn-custom {
+    background-color: #1a9086 !important;
+    border: 1px solid #1a9086 !important;
+}
+
+.top_left_cont h2 {
+    font-size: 40px;
+    color: #65B8D9;
+    /*color: #49b5e7;*/
+    line-height: 52px;
+    margin: 0 0 26px 0;
+    font-family: 'Dosis';
+    text-align: left;
+    font-weight: 700;
+}
+
+.lbl-lms-custom {
+    font-size: 20px;
+    color: #baddea;
+    line-height: 42px;
+    margin: 0 0 2px 0;
+    font-family: 'Dosis';
+    text-align: left;
+    font-weight: 700;
+}
+
+.lbl-lms {
+    font-size: 20px;
+    color: #676b6d;
+    line-height: 42px;
+    margin: 0 0 8px 0;
+    font-family: 'Dosis';
+    text-align: left;
+    font-weight: 700;
+}
+
+.box {
+    background: #fff;
+    margin: 0 0 30px;
+    border: solid 1px #e6e6e6;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .1);
+}
